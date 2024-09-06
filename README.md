@@ -8,4 +8,5 @@ We use this tool to
 3. Uploaded the preprocessed data to the OpenAI official dashboard to fine-tune the LLM.
 
 We published the preprocessed data and experimental result here first.
-**===We will open source the source code after our paper published.===**
+
+**===We will open source the source code after our paper is published.===**
